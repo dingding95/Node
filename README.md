@@ -123,7 +123,6 @@
   ```
 
   ​
-
 - **Common JS规范**
 
   1.console.js
